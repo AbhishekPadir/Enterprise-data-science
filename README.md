@@ -5,10 +5,15 @@ The goal of the project is to understand the data science at professional level,
 In the project, standard work flow known as CRISP-DM, which is normally followed at industry-level is followed:
 
 Business understanding
+
 Data understanding
+
 Data preparation
+
 Modeling
+
 Deployment
+
 Data is collected by different methods. However, all the datasets are not used for modeling. Two models are created by using various mathemaical transformations:
 
 To calculate doubling rate for original data and filterd data.
